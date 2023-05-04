@@ -1,2 +1,3 @@
 # Order-Summary
-tes
+- Menggunakan HTML & CSS (native)
+- Responsive
